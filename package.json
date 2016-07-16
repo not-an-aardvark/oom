@@ -1,0 +1,19 @@
+{
+  "name": "oom",
+  "version": "0.1.0",
+  "description": "Uses up all the available memory as fast as possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "! node -p 'require(\".\")'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/not-an-aardvark/oom.git"
+  },
+  "author": "not-an-aardvark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/not-an-aardvark/oom/issues"
+  },
+  "homepage": "https://github.com/not-an-aardvark/oom#readme"
+}
